@@ -2,7 +2,7 @@
   <img src="static/logo.png" alt="vscan" width="200px">
   <br>
 </h1>
-<p align="center">开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。</p>
+<p align="center">An open-source, lightweight, fast, cross-platform website vulnerability scanning tool that helps you quickly detect website security risks.。</p>
 
 <p align="center">
 <a href="https://github.com/veo/vscan/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
@@ -27,31 +27,32 @@
   <br>
 </h1>
 
-- 快速的端口扫描、指纹探测功能
-- 快速的登录密码爆破功能
-- 快速的POC检测功能
-- 快速的敏感文件检测功能
-- 轻量、开源、跨平台使用
-- 支持指纹 650(eHole) + 3129(Local) + 3053(wappalyzergo) = 6832 条
-- 支持 Xray 和 Nuclei 的 POC 检测
-- 支持多种类型的输入 - **STDIN/HOST/IP/CIDR/URL/TXT**
-- 支持多种类型的输出 - **JSON/TXT/CSV/STDOUT**
+Fast port scanning and fingerprint detection capabilities
+Fast login password brute-force capability
+Fast POC detection capability
+Fast sensitive file detection capability
+Lightweight, open-source, cross-platform usability
+Supports 650 (eHole) + 3129 (Local) + 3053 (wappalyzergo) = 6832 fingerprints
+Supports POC detection for Xray and Nuclei
+Supports multiple input types - STDIN/HOST/IP/CIDR/URL/TXT
+Supports multiple output types - JSON/TXT/CSV/STDOUT
 
 
 
 # Licenses
 
-本工具仅面向合法授权的企业安全建设行为，在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。
+This tool is intended solely for legally authorized enterprise security implementation activities. When using this tool for detection, you must ensure that your actions comply with local laws and regulations and that you have obtained sufficient authorization.
 
-如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，作者将不承担任何法律及连带责任。
+If you engage in any illegal activities while using this tool, you will be solely responsible for the consequences, and the author will not bear any legal or joint liability.
 
-在使用本工具前，请您务必审慎阅读、充分理解各条款内容，限制、免责条款或者其他涉及您重大权益的条款可能会以加粗、加下划线等形式提示您重点注意。 除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要使用本工具。您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。 
+Before using this tool, please carefully read and fully understand all terms and conditions. Limitations, disclaimers, or other clauses affecting your significant rights may be highlighted with bolding, underlining, or other similar techniques. Unless you have fully read, understood, and accepted all terms of this agreement, please do not use this tool. Your use of this tool, or any other express or implied acceptance of this agreement, constitutes your reading and agreement to the terms of this agreement.
+ 
 
-# 安恒-星火实验室
+# Anheng-Spark Laboratory
 
 <h1 align="center">
   <img src="static/starfile.jpeg" alt="starfile" width="200px">
   <br>
 </h1>
-专注于实战攻防与研究，研究涉及实战攻防、威胁情报、攻击模拟与威胁分析等，团队成员均来自行业具备多年实战攻防经验的红队、蓝队和紫队专家。本着以攻促防的核心理念，通过落地 ATT&CK 攻防全景知识库，全面构建实战化、常态化、体系化的企业安全建设与运营。
+Focusing on practical attack and defense research, our team encompasses practical attack and defense, threat intelligence, attack simulation, and threat analysis. Our members are all experts from red, blue, and purple teams with years of practical attack and defense experience in the industry. Adhering to the core principle of promoting defense through offense, we comprehensively build a practical, routine, and systematic enterprise security system by implementing the ATT&CK attack and defense panoramic knowledge base.
 
